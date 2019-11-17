@@ -7,4 +7,4 @@ To run this code:
 ```
 
 
-!(https://github.com/lwneal/residential_energy/blob/master/income_vs_square_feet.png)
+![3d plot](https://github.com/lwneal/residential_energy/blob/master/income_vs_square_feet.png)
